@@ -104,10 +104,7 @@ The dataset contains information related to road accidents, including:
 > screenshot of My Excel dashboard here.
 
 Example:
-
-```
 <img width="1591" height="815" alt="Image" src="https://github.com/user-attachments/assets/383d4eaa-775b-4cb8-8e02-51c4fe5e7b4b" />
-```
 
 ---
 
