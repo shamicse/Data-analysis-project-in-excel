@@ -101,12 +101,12 @@ The dataset contains information related to road accidents, including:
 
 ## 📸 Dashboard Preview
 
-> Add a screenshot of your Excel dashboard here.
+> screenshot of My Excel dashboard here.
 
 Example:
 
 ```
-images/dashboard.png
+<img width="1591" height="815" alt="Image" src="https://github.com/user-attachments/assets/383d4eaa-775b-4cb8-8e02-51c4fe5e7b4b" />
 ```
 
 ---
@@ -144,7 +144,7 @@ Data-analysis-project-in-excel/
 **Shami Akhtar**
 
 - GitHub: https://github.com/shamicse
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: (https://www.linkedin.com/in/shami-akhtar-0bb742422
 
 ---
 
